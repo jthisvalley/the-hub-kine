@@ -32,6 +32,10 @@ class PatientProfile extends Model
         'notification_preferences' => 'array',
     ];
 
+    protected $attributes = [
+        'notification_preferences' => '{"email": true, "push": true, "sms": false}',
+    ];
+
     public function user()
     {
         return $this->belongsTo(User::class);

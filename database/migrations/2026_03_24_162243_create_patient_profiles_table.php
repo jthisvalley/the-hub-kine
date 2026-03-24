@@ -20,7 +20,7 @@ return new class extends Migration
             $table->decimal('weight_kg', 5)->nullable();
             $table->text('medical_notes')->nullable();
             $table->string('preferred_language', 10)->default('fr');
-            $table->json('notification_preferences')->nullable()->default('_utf8mb4\'{"email": true, "push": true, "sms": false}\'');
+            $table->json('notification_preferences')->nullable();
             $table->string('emergency_contact_name', 200)->nullable();
             $table->string('emergency_contact_phone', 20)->nullable();
             $table->string('preferred_contact_method', 50)->nullable()->default('email');
