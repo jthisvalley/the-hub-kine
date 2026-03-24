@@ -43,6 +43,13 @@ class KineProfile extends Model
         'session_durations' => 'array',
     ];
 
+    protected $attributes = [
+        'notification_preferences' => '{"email": true, "push": true, "sms": false}',
+        'working_days' => '{"monday": true, "tuesday": true, "wednesday": true, "thursday": true, "friday": true, "saturday": false, "sunday": false}',
+        'working_hours' => '{"start": "08:00", "end": "18:00", "lunch_start": "12:00", "lunch_end": "14:00"}',
+        'session_durations' => '[30, 45, 60]',
+    ];
+
     public function user()
     {
         return $this->belongsTo(User::class);

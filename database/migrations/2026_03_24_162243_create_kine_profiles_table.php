@@ -23,13 +23,13 @@ return new class extends Migration
             $table->string('postal_code')->nullable();
             $table->string('siret', 14)->nullable();
             $table->boolean('approved')->default(false);
-            $table->json('notification_preferences')->nullable()->default('_utf8mb4\'{"email": true, "push": true, "sms": false}\'');
+            $table->json('notification_preferences')->nullable();
             $table->string('adeli_number', 50)->nullable();
             $table->text('specialties')->nullable();
             $table->integer('years_of_experience')->nullable();
-            $table->json('working_days')->nullable()->default('_utf8mb4\'{"monday": true, "tuesday": true, "wednesday": true, "thursday": true, "friday": true, "saturday": false, "sunday": false}\'');
-            $table->json('working_hours')->nullable()->default('_utf8mb4\'{"start": "08:00", "end": "18:00", "lunch_start": "12:00", "lunch_end": "14:00"}\'');
-            $table->json('session_durations')->nullable()->default('_utf8mb4\'[30, 45, 60]\'');
+            $table->json('working_days')->nullable();
+            $table->json('working_hours')->nullable();
+            $table->json('session_durations')->nullable();
             $table->integer('buffer_minutes')->nullable()->default(15);
             $table->timestamps();
         });
