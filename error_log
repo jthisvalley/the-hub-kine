@@ -1,0 +1,93 @@
+[13-Feb-2026 23:02:22 UTC] PHP Parse error:  syntax error, unexpected end of file in Command line code on line 1
+[10-Mar-2026 17:38:54 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: explode(): Argument #3 ($limit) must be of type int, string given in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php(62): LaravelVsCode::startupError(Object(TypeError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php on line 33
+[10-Mar-2026 17:38:54 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: explode(): Argument #3 ($limit) must be of type int, string given in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(TypeError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[10-Mar-2026 17:38:56 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: explode(): Argument #3 ($limit) must be of type int, string given in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php(62): LaravelVsCode::startupError(Object(TypeError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php on line 33
+[10-Mar-2026 17:38:56 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: explode(): Argument #3 ($limit) must be of type int, string given in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(TypeError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[10-Mar-2026 17:39:00 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: explode(): Argument #3 ($limit) must be of type int, string given in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php(62): LaravelVsCode::startupError(Object(TypeError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php on line 33
+[10-Mar-2026 17:39:00 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: explode(): Argument #3 ($limit) must be of type int, string given in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(TypeError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[10-Mar-2026 17:39:01 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: explode(): Argument #3 ($limit) must be of type int, string given in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php(62): LaravelVsCode::startupError(Object(TypeError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php on line 33
+[10-Mar-2026 17:39:01 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: explode(): Argument #3 ($limit) must be of type int, string given in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(TypeError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[16-Mar-2026 17:19:29 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: Unclosed '[' on line 4 in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php(62): LaravelVsCode::startupError(Object(ParseError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php on line 33
+[16-Mar-2026 17:19:29 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: Unclosed '[' on line 4 in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(ParseError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[16-Mar-2026 17:19:58 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: Unclosed '[' on line 4 in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(ParseError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[16-Mar-2026 17:20:02 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: Unclosed '[' on line 4 in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(ParseError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[16-Mar-2026 17:20:08 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: Unclosed '[' on line 4 in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(ParseError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[16-Mar-2026 17:21:04 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: Unclosed '[' on line 4 in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(ParseError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[16-Mar-2026 17:21:21 UTC] PHP Fatal error:  Uncaught Error: __VSCODE_LARAVEL_STARTUP_ERROR__: Unclosed '[' on line 4 in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php:33
+Stack trace:
+#0 /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php(62): LaravelVsCode::startupError(Object(ParseError))
+#1 {main}
+  thrown in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php on line 33
+[16-Mar-2026 19:53:48 Africa/Casablanca] PHP Fatal error:  Cannot declare class Resend, because the name is already in use in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/resend/resend-php/src/Resend.php on line 10
+[16-Mar-2026 19:53:48 Africa/Casablanca] PHP Fatal error:  Cannot declare class Resend, because the name is already in use in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/resend/resend-php/src/Resend.php on line 10
+[16-Mar-2026 19:53:49 Africa/Casablanca] PHP Fatal error:  Cannot declare class Resend, because the name is already in use in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/resend/resend-php/src/Resend.php on line 10
+[16-Mar-2026 19:53:49 Africa/Casablanca] PHP Fatal error:  Cannot declare class Resend, because the name is already in use in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/resend/resend-php/src/Resend.php on line 10
+[16-Mar-2026 19:53:49 Africa/Casablanca] PHP Fatal error:  Cannot declare class Resend, because the name is already in use in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/resend/resend-php/src/Resend.php on line 10
+[16-Mar-2026 19:53:56 Africa/Casablanca] PHP Fatal error:  Cannot declare class Resend, because the name is already in use in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/resend/resend-php/src/Resend.php on line 10
+[16-Mar-2026 19:53:56 Africa/Casablanca] PHP Fatal error:  Cannot declare class Resend, because the name is already in use in /home/palace/public_html/le-hub-kine.palace-agency.com/vendor/resend/resend-php/src/Resend.php on line 10
+[16-Mar-2026 20:43:52 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Models/NotificationPreference.php on line 4
+[16-Mar-2026 20:46:56 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Services/NotificationService.php on line 4
+[16-Mar-2026 20:46:56 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Services/NotificationService.php on line 4
+[16-Mar-2026 21:23:21 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Models/UserDevice.php on line 4
+[16-Mar-2026 21:33:54 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Models/SecurityEvent.php on line 4
+[16-Mar-2026 21:33:56 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Models/SecurityEvent.php on line 4
+[16-Mar-2026 22:12:11 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Models/UserDevice.php on line 4
+[16-Mar-2026 22:12:17 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Models/UserDevice.php on line 4
+[16-Mar-2026 22:13:48 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Models/SecurityEventService.php on line 4
+[16-Mar-2026 22:57:48 Africa/Casablanca] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palace/public_html/le-hub-kine.palace-agency.com/app/Models/UserDevice.php on line 4
