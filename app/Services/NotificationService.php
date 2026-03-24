@@ -19,7 +19,7 @@ class NotificationService
 
     public function __construct()
     {
-        $this->resend = Resend::client("re_J8Zfh2hQ_M2bFqSeCQDUEYkF91pb8ffpN");
+        $this->resend = Resend::client(env('RESEND_API_KEY'));
     }
 
     /**
